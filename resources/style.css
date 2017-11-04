@@ -24,3 +24,8 @@ h2 .subtitle {
   font-size: 21px;
   color:Gray;
 }
+
+.copywrite {
+  text-align:right;
+  color:Gray;
+}
